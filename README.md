@@ -19,7 +19,7 @@
 
 1. **Save a Password**: Adds a password for a specific service and encrypts it with GPG using a passphrase.
 2. **Retrieve a Password**: Decrypts the password file using the GPG passphrase and retrieves the saved password.
-3. **Delete a Password**: Deletes a specific password from the encrypted file.
+3. **Delete a Password**: Deletes a specific encrypted file .gpg where password of service is stored.
 4. **List All**: List all saved services
 5. **Quit**:  
 
