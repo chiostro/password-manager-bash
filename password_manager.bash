@@ -1,4 +1,4 @@
-##!/data/data/com.termux/files/usr/bin/bash
+#!/data/data/com.termux/files/usr/bin/bash
 gpgconf --kill gpg-agent
 gpgconf --reload gpg-agent
 FILE="password_store"
