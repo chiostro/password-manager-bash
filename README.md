@@ -1,4 +1,5 @@
-#Password Manager
+# Password Manager
+
 **password_manager.bash** is a simple Bash script that helps you securely store service passwords using GPG encryption. It uses symmetric key encryption to encrypt and save passwords into a file, ensuring your sensitive data stays protected.
 
 ### Features:
@@ -81,7 +82,7 @@
 
 ---
 
-## 👥 Contributions
+## Contributions
 
 Feel free to fork this project and submit pull requests. If you encounter issues, open an issue on GitHub.
 
@@ -93,7 +94,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ---
 
-## ⚠GPG Passphrase
+## GPG Passphrase
 
 Remember, the **GPG passphrase** is essential for decrypting the password file. **Don't forget it**, or you won't be able to access your stored passwords!
 
