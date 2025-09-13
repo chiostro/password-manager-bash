@@ -20,14 +20,14 @@
 1. **Save a Password**: Adds a password for a specific service and encrypts it with GPG using a passphrase.
 2. **Retrieve a Password**: Decrypts the password file using the GPG passphrase and retrieves the saved password.
 3. **Delete a Password**: Deletes a specific password from the encrypted file.
-4. **List Serives Password**: List all saved services
+4. **List All**: List all saved services
 5. **Quit**:  
 
 ---
 
 ## Prerequisites:
 
-1. **GPG**: GPG is preinstalled in Termux. Install it in need with:
+1. **GPG**: GPG is preinstalled in Termux. Install it as needed with:
 
    ```bash
    pkg install gnupg
@@ -63,7 +63,7 @@
 ### 1. **Save a password**:
 ### 2. **Retrieve a password**:
 ### 3. **Delete a password**:
-### 4. **List password**:
+### 4. **List all**:
 ### 5. **Quit**:
 
 ---
