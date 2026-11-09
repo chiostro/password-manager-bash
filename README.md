@@ -30,7 +30,7 @@
 1. **GPG**: GPG is preinstalled in Termux. Install it as needed with:
 
    ```bash
-   pkg install gnupg
+   pkg install gnupg git
    ```
 
 2. **Termux**: If you're using Android, install **Termux** from the Google Play Store.
